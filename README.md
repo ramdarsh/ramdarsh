@@ -20,4 +20,3 @@ Python | SQL | Streamlit | Flask | Supabase
 
 ## Contact
 Email: ramdarsh07@gmail.com
-LinkedIn: your-linkedin
